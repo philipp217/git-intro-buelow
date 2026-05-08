@@ -27,3 +27,6 @@ I dont read much..
 
 ##Hobbies:
 -schach, klavier
+
+- bouldern, wandern und joggen  
+
