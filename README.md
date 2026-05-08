@@ -20,3 +20,7 @@ hi :(
 
 favorit books:
 I dont read much..
+
+## Eintrag von Lara 
+- hobbies: dancing, reading 
+
