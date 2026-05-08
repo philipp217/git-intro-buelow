@@ -20,3 +20,6 @@ hi :(
 
 ## Eintrag von Lara 
 - hobbies: dancing, reading 
+
+##Hobbies:
+-schach, klavier
