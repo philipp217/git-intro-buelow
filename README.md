@@ -27,3 +27,8 @@ I dont read much..
 
 ##Hobbies:
 -schach, klavier
+<<<<<<< Updated upstream
+=======
+- bouldern, wandern und joggen  
+
+>>>>>>> Stashed changes
